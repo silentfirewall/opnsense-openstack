@@ -1,35 +1,3 @@
-<div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Builds][builds-shield]][builds-url]
-[![Versions][versions-shield]][versions-url]
-[![Starrers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="[https://gitlab.com/open-images/opnsense](https://gitlab.com/open-images/opnsense)">
-    <img src="images/logo.png" alt="Logo" width="150">
-  </a>
-
-<h3 align="center">OPNsense image for OpenStack</h3>
-
-  <p align="center">
-    Port of OPNsense distribution for OpenStack environments
-    <br />
-    <a href="https://gitlab.com/open-images/opnsense"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://gitlab.com/open-images/opnsense/issues">Report Bug</a>
-    ·
-    <a href="https://gitlab.com/open-images/opnsense/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
